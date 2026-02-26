@@ -11,7 +11,7 @@ Project Overview:
 This project focuses on developing a machine learning–based system to detect and prevent online fraudulent transactions. With the rapid growth of digital payments and e-commerce platforms, fraudulent activities have increased significantly. The system aims to analyze transaction data and identify suspicious patterns using data-driven techniques.
 The project integrates Python-based data analysis and machine learning algorithms to build an intelligent fraud detection model capable of distinguishing between legitimate and fraudulent transactions.
 
-🎯 Objectives
+Objectives
 * To analyze financial transaction datasets
 * To preprocess and clean large-scale transaction data
 * To apply machine learning algorithms for fraud classification
